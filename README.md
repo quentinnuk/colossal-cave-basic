@@ -1,6 +1,8 @@
 # colossal-cave-basic
 Colossal Cave adventure in HP BASIC
 
+"In 1978, Chris Eisnaugle and Dan Blumenfeld, both high school students at the time, replicated the entire 350-point version of the game by coding a functional equivalent in HP Time-Shared BASIC for a Hewlett-Packard 2000C minicomputer."
+
 This port requires HP2000 Access BASIC
 
 ADVENT is the start program for Colossal Cave Adventure
